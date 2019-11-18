@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		3F4B071423810C6F00A46D87 /* MagicEightBall.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MagicEightBall.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		3F4B071423810C6F00A46D87 /* Magic 8-Ball.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Magic 8-Ball.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3F4B071723810C6F00A46D87 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3F4B071923810C6F00A46D87 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		3F4B071B23810C6F00A46D87 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		3F4B071523810C6F00A46D87 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				3F4B071423810C6F00A46D87 /* MagicEightBall.app */,
+				3F4B071423810C6F00A46D87 /* Magic 8-Ball.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -84,7 +84,7 @@
 			);
 			name = MagicEightBall;
 			productName = MagicEightBall;
-			productReference = 3F4B071423810C6F00A46D87 /* MagicEightBall.app */;
+			productReference = 3F4B071423810C6F00A46D87 /* Magic 8-Ball.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -291,7 +291,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.henrycalderon.MagicEightBall;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Magic 8-Ball";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -308,7 +308,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.henrycalderon.MagicEightBall;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Magic 8-Ball";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
